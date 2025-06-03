@@ -6,7 +6,7 @@ Perform network scanning on local subnet using Nmap and analyze traffic with Wir
 ## Steps Performed
 - Installed and used Nmap
 - Identified IP range using `ip a`
-- Performed TCP SYN scan with `nmap -sS 192.168.9.186/24`
+- Performed TCP SYN scan with `nmap -sS 192.168.9.16/24`
 - Captured and analyzed packets using Wireshark
 - Saved outputs and screenshots
 
